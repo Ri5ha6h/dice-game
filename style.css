@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 100px auto;
+  width: auto;
+  height: 800px;
+  background-color: rgb(97, 84, 84);
+  background-image: url('./images/bg.jpg');
+  padding: 50px;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 0.1rem;
+}
+
+.d-v {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.d {
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+}
+
+.v {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+img {
+  width: 6rem;
+  height: 6rem;
+}
+
+.var-btn {
+  margin-top: 40px;
+}
+
+.nbr {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.no {
+  background-color: khaki;
+  color: black;
+  font-size: 1.75rem;
+  padding: 1rem 2.5rem;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.t {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.para2 {
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 4rem 15rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.b {
+  padding: 10px;
+  font-size: 24px;
+  outline: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.start {
+  background-color: rgb(47, 131, 240);
+}
+
+.stop {
+  background-color: gray;
+}

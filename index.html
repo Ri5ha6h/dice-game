@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+    />
+    <title>Dice Game</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- heading -->
+      <div class="heading">
+        <h1>Roll The Dice</h1>
+      </div>
+      <!-- dice and variables -->
+      <div class="d-v">
+        <!-- variable count section -->
+        <div class="d">
+          <p class="v">
+            Selected Variable:
+            <span class="slct-var"></span>
+          </p>
+        </div>
+        <!-- dice goes here -->
+        <div class="dice d"></div>
+        <!-- score section -->
+        <div class="d">
+          <p class="v">
+            Score: <span class="scr"></span>
+          </p>
+        </div>
+      </div>
+      <!-- numbers -->
+      <div class="var-btn">
+        <div class="nbr">
+          <button class="no one">1</button>
+          <button class="no two">2</button>
+          <button class="no three">3</button>
+        </div>
+        <div class="nbr">
+          <button class="no four">4</button>
+          <button class="no five">5</button>
+          <button class="no six">6</button>
+        </div>
+      </div>
+
+      <div class="t">
+        <p class="para1 v">
+          Game is about to start in
+          <span class="time"></span>sec...
+        </p>
+        <p class="para2 v"></p>
+      </div>
+      <div class="btn">
+        <button class="b start">
+          START AGAIN
+        </button>
+        <button class="b stop">STOP</button>
+      </div>
+    </div>
+
+    <!-- js -->
+    <script src="./script.js"></script>
+  </body>
+</html>
