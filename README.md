@@ -1,6 +1,6 @@
 <!-- values -->
 
-<h1 align="center">Homepage</h1>
+<h1 align="center">Roll The Dice Game</h1>
 
 <div align="center">
   <h3>
