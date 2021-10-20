@@ -24,9 +24,7 @@
 
 <!-- instruction -->
 
-# How to play
-
-## This is a DICE ROLL Guess game, in which you have to guess the number before the dice is rolled
+## How to play
 
 - Step1: When you first launch the game, the game starts after 4 seconds.
 
