@@ -12,7 +12,7 @@
 
 <!-- overview -->
 
-<img width="1440" alt="Screenshot of the dice game" src="./src/images/ss.png">
+<img width="1440" alt="Screenshot of the dice game" src="./images/ss.png">
 
 <!-- Built with -->
 
