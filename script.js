@@ -101,7 +101,7 @@ function startGame() {
   } else {
     sec--;
   }
-  para1.innerHTML = `Guess the number in ${sec} sec...`;
+  para1.innerHTML = `You, Have ${sec} sec.. to choose a Number`;
   selectNumber();
 }
 
@@ -232,9 +232,9 @@ function check() {
   five.disabled = false;
   six.disabled = false;
   setTimeout(() => {
-    sec = 4;
+    sec = 5;
     game();
-  }, 6000);
+  }, 1000);
 }
 
 function check2() {
@@ -258,9 +258,9 @@ function check2() {
   five.disabled = false;
   six.disabled = false;
   setTimeout(() => {
-    sec = 4;
+    sec = 5;
     game();
-  }, 6000);
+  }, 900);
 }
 
 stop.addEventListener('click', function () {

@@ -3,18 +3,21 @@
   padding: 0;
 }
 
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
 .container {
-  margin: 100px auto;
-  width: auto;
-  height: 800px;
-  background-color: rgb(97, 84, 84);
   background-image: url('./images/bg.jpg');
-  padding: 50px;
+  width: 100%;
+  height: 100%;
   color: white;
 }
 
 .heading {
   text-align: center;
+  padding-top: 100px;
 }
 
 h1 {

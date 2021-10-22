@@ -34,7 +34,7 @@
 
 - Step4: If your guess and the dice outcome matches then you guessed it right, if not your guess is wrong.
 
-- Step5: If your guess is right you score 10 points and if not you score 0 points but in both cases the game will start again in 6 seconds.
+- Step5: If your guess is right you score 10 points and if not you score 0 points but in both cases the game will start again in 5 seconds.
 
 - Step6: To stop the game you can press the STOP button.
 
