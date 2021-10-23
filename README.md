@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://hardcore-morse-d11101.netlify.app/">
+    <a href="https://dice-game-rishabh.netlify.app/">
       Demo
     </a>
   </h3>
